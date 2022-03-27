@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Vishal Mandlik",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "name": "Durgesh Tambe",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "name": "Vijay Pawar",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "name": "Omkar Jarande",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "name": "Akshay Ulhe",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "name": "Suyash Shinde",
+        "email": "test@gmail.com",
+        "status": "PENDING",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "name": "Akshay Renuse",
+        "email": "test@gmail.com",
+        "status": "PAYMENT",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "name": "Rohit Mane",
+        "email": "test@gmail.com",
+        "status": "ACTIVE",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 9,
+        "name": "Ganesh Pachpute",
+        "email": "test@gmail.com",
+        "status": "PAYMENT",
+        "bookingType": "Hotel",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "name": "Vikas Patil",
+        "email": "test@gmail.com",
+        "status": "ACTIVE",
+        "bookingType": "Hotel",
+        "description": ""
+    }
+]
