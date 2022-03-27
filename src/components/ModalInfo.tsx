@@ -26,21 +26,20 @@ export const ModalInfo = ({ data, modalVisible, setModalVisible }: ModalInfoProp
                         </TouchableOpacity>
                     </View>
                     <Text style={{ paddingTop: 10, fontWeight: "bold" }}> Personal Information:</Text>
-                    <Text style={{}}>{JSON.stringify(data)}</Text>
                     <Text style={{}}>Id: {data?.id}</Text>
                     <Text style={{}}>Name: {data?.name}</Text>
-                    <Text style={{}}>Email: durgesh.tambe94@gmail.com</Text>
+                    <Text style={{}}>Email: {data?.email}</Text>
                     <Text style={{}}>Country: India</Text>
                     <Text style={{}}>City: Pune</Text>
                     <Text style={{}}>Contact: 9090909090</Text>
                     <Text style={{ paddingTop: 10, fontWeight: "bold" }}>Booking Information:</Text>
                     <Text style={{}}>Ticket Type: </Text>
-                    <Text style={{}}>Tour type: </Text>
+                    <Text style={{}}>Tour type: {data?.bookingType} </Text>
                     <Text style={{}}>Departure Date: </Text>
                     <Text style={{}}>Destination from: </Text>
                     <Text style={{}}>Destination to: </Text>
                     <Text style={{}}>No. of tickets: </Text>
-                    <Text style={{}}>Description: </Text>
+                    <Text style={{}}>Description: {data?.description}</Text>
                 </View>
             </View>
         </Modal>
